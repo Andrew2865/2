@@ -1,0 +1,9 @@
+git Bash przemyskie
+
+przed rozpoczęciem zmian -
+
+git pull - zeby pobrac zmiany
+
+git add .
+git commit -m "co zrobilem"
+git push - jak nie zadziala to zrobic to co tam wpisac

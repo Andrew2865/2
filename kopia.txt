@@ -1,0 +1,19 @@
+          <View style={styles.buttonSettings}>
+            <ImageBackground source={require('../przyciski/buttonGreen.png')} title='' onPress={()=>ViewChanger('Main')} style={[{justifyContent:'center',alignItems:'center'}]}/>
+          </View>
+         
+          <View style={styles.buttonSettings}>
+          <ImageBackground source={require('../przyciski/buttonGreen.png')} title='' onPress={()=>ViewChanger('About')} style={[{backgroundColor:'lightgreen'}]}/>
+          </View>
+
+          <View style={styles.buttonSettings}>
+          <ImageBackground source={require('../przyciski/buttonGreen.png')} title='' onPress={()=>ViewChanger('QRScan')} style={[{backgroundColor:'lightblue'}]}/>
+          </View>
+
+          <View style={styles.buttonSettings}>
+          <ImageBackground source={require('../przyciski/buttonGreen.png')} title='' onPress={()=>ViewChanger('Main')} style={[{backgroundColor:'yellow'}]}/>
+          </View>
+
+          <View style={styles.buttonSettings}>
+          <ImageBackground source={require('../przyciski/buttonGreen.png')} title='' onPress={()=>ViewChanger('Profil')} style={[{backgroundColor:'violet'}]}/>
+          </View>
